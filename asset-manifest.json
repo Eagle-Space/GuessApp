@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GuessApp/static/css/main.68bd67de.css",
+    "main.js": "/GuessApp/static/js/main.306ebfff.js",
+    "index.html": "/GuessApp/index.html",
+    "main.68bd67de.css.map": "/GuessApp/static/css/main.68bd67de.css.map",
+    "main.306ebfff.js.map": "/GuessApp/static/js/main.306ebfff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68bd67de.css",
+    "static/js/main.306ebfff.js"
+  ]
+}
